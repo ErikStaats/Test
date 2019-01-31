@@ -1,2 +1,4 @@
 # Test
-Repo for testing repo operations
+
+This repository is for testing operations on repos.
+
